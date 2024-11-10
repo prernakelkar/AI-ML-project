@@ -83,9 +83,3 @@ To run the project, open the Jupyter Notebooks and follow the steps in the provi
 
 ## Results
 The analysis shows the correlation between key economic indicators and stock prices. The machine learning model used for prediction provides insights into how economic changes may influence financial markets. Key findings are summarized in the final notebook.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request if you would like to contribute.
-
-## License
-This project is licensed under the MIT License.
